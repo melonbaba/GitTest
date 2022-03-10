@@ -2,3 +2,8 @@
 
 
 개발 브렌치에서 수정한 내용!!!!!
+
+git remote add {별칭} {URL}}
+
+git remote add origin http://git.dslkfjlsdkjflksd;
+
